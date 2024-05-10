@@ -1,0 +1,12 @@
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\bin\Debug\net8.0\GT3XRead.deps.json
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\bin\Debug\net8.0\GT3XRead.dll
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\bin\Debug\net8.0\GT3XRead.pdb
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.csproj.AssemblyReference.cache
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.AssemblyInfoInputs.cache
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.AssemblyInfo.cs
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.csproj.CoreCompileInputs.cache
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.dll
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\refint\GT3XRead.dll
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\GT3XRead.pdb
+C:\Users\ptend\source\repos\GT3XRead\GT3XRead\obj\Debug\net8.0\ref\GT3XRead.dll
